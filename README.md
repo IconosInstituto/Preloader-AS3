@@ -10,3 +10,5 @@ Tipos de preloaders creados con actionscript 3.0
 * itálica *
 *- Elemento de lista
 *- otro elemento de lista
+
+(: 
